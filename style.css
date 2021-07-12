@@ -1,0 +1,55 @@
+body {
+    color: #000000;
+    background-color: rgb(150, 238, 226);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 21px;
+    text-align: center;
+    margin: 15 auto;
+    overflow-wrap: auto;
+    page-break-before: always;
+    page-break-after: always;
+  }
+    
+  h1 {
+    background-color: rgb(240, 50, 50);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow-wrap: auto;
+    page-break-before: always;
+    page-break-after: always;
+    border-width: 1px;
+    border-style: outset;
+    border-color: black;
+    border-image: initial;
+  }
+  
+  button {
+    appearance: auto;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: rgb(240, 50, 50);
+    box-sizing: border-box;
+    margin: 0em;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow-wrap: auto;
+    padding: 1px 6px;
+    border-width: 1px;
+    border-style: outset;
+    border-color: black;
+    border-image: initial;
+  }
+  
+  button:hover {
+    color: #fff;
+    background-color: rgb(240, 50, 50);
+  }
